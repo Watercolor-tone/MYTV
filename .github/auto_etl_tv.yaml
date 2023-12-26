@@ -1,8 +1,9 @@
-name: Python CI  
-  
+# run find_gd_iptv.py
+name: Auto ETL IPTV
 on:  
   schedule:  
     - cron: '0 */4 * * *' # 每2小时运行一次  
+  workflow_dispatch:
 jobs:  
   build:  
     runs-on: ubuntu-latest  
