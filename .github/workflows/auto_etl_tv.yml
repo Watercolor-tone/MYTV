@@ -20,3 +20,4 @@ jobs:
       - name: Run Python script  
         run: |  
           python find_gd_iptv.py
+          cat mytv.m3u8
