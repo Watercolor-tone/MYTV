@@ -18,7 +18,7 @@ for data in datas:
 with open("mytv_url.m3u8", "r", encoding="utf8")as f:
     m3u=f.read()
 
-content = "\n".join(info_list)
+content = "\n".join(info_list)+m3u
 
 with open("mytv.m3u8", "w", encoding="utf8") as f:
     f.write(content)
