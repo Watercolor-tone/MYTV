@@ -2,7 +2,7 @@
 name: Auto ETL IPTV
 on:  
   schedule:  
-    - cron: '0 */4 * * *' # 每2小时运行一次  
+    - cron: '*/30 * * * *' # 每小时运行一次  
   workflow_dispatch:
 jobs:  
   build:  
