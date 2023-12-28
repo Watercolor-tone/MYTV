@@ -255,20 +255,3 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-
-#EXTINF:-1 ,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 ,阳江公共
-https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
