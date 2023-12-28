@@ -16,15 +16,15 @@ https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/nfws.m3u8?t_token
 https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=f1dd6cc77d31db74fca1206fd76e6645-YOstecQf8pU5gZlx5HzVMi5rtkKlC4J9R9Zf%2F3Tda8%2Fn%2BGPSpgtjsao1fYueZZ1xvpeuZ5KLD5Su6Bg9Ld5Yr%2B8F6YbmPcY1UjA%2Bj6Lerj4KKku6WKytQVfipZoBvPPxMXHkK07L8j4P4RtVXuA%2FGHzyBhQlWdehIIxHVVGiMakA9xZSb%2BcaMFh%2B%2FDKsm%2FGo9riJ4nsSns1L8h3rw2sbNtT%2BrtIzV%2F8xtfJ%2F4Pada3fD3ApFXZZKm5eCmlzznhwO8d7vjeAapks9qXF3gXqiFk0q5Dnt2XLxKmGuSdGccPZaWmsPSvNMoeXp8KtR45TFMY1EjYymsTL%2Bprs34KZNpulsPjFleh27r7JybsM5%2F%2FzqRDQqE2PZIMpTtQnAfiQ1
 #EXTINF:-1 ,广东影视
 https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/gdys2.m3u8?t_token=c5618ba38e7d7e2ad0b43a73f3435719-YOstecQf8pU5gZlx5HzVMi5rtkKlC4J9R9Zf%2F3Tda8%2Fn%2BGPSpgtjsao1fYueZZ1xvpeuZ5KLD5Su6Bg9Ld5Yr%2B8F6YbmPcY1UjA%2Bj6Lerj4KKku6WKytQVfipZoBvPPxMXHkK07L8j4P4RtVXuA%2FGHzyBhQlWdehIIxHVVGiMakA9xZSb%2BcaMFh%2B%2FDKsm%2FGo9riJ4nsSns1L8h3rw2sbNtT%2BrtIzV%2F8xtfJ%2F4Pada3eF5dHnVxZKEux3Cq33Hrc%2FNC3KXGRou46tRQaV78MAC7nTW8zB7KF8KYjStZMs8TUSKg45H6CFjmxsGf5T%2B8c4l%2FGP86jyc5yFJrUIo5megAhV%2FUVdKCjd293YnSEK4gRClEXwN0Jx9nq4SfivSNbL
-#EXTINF:-1 ,广东卫视 (16M1080P)
+#EXTINF:-1 ,广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州综合
 http://r.jdshipin.com/iR6Gq
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州影视
 http://r.jdshipin.com/TcKr2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州法制
 http://php.jdshipin.com:8880/gztv.php?id=fazhi
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="广州",广州南国都市
@@ -82,7 +82,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",CCTV女性时尚
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV高尔夫·网球
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -235,8 +235,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="未分类",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 ,金色学堂
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
@@ -255,20 +253,3 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-
-#EXTINF:-1 ,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 ,阳江公共
-https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
