@@ -8,8 +8,8 @@ response = requests.get(json_url, headers=header)
 datas = response.json()
 
 info_list = []
-my_list = ["广东珠江", "广东影视", "广东新闻", "广东体育", "广东民生", "大湾区卫视（海外版）", "广东经济科教",
-           "大湾区卫视", "广东4K超高清", "嘉佳卡通", "广东移动"]
+my_list = ["广东珠江", "广东影视", "广东新闻", "广东民生", "大湾区卫视（海外版）", "广东经济科教",
+           "大湾区卫视", "广东4K超高清", "嘉佳卡通"]
 
 for data in datas:
     if data['name'] in my_list:
