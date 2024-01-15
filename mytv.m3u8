@@ -1,7 +1,7 @@
 #EXTINF:-1 ,广东珠江
 https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1705312174-0-0-2247bcf4e0bd828e2f9efd3ab5dad903
 #EXTINF:-1 ,广东民生
-https://ggtctv.gdtv.cn/live/gdgg.m3u8?auth_key=1705309793-0-0-04f576f3b65058eb0a8697fd4da515d5
+http://183.60.228.239/tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=f03d78c29e9c634348faa59e525e39e8-rIAymhDlfygOWWMft0dbTh0BwlRnlr0ko32aM%2FejvSRoMhRBvrYGJVYvxz4FZYbFRCMSyNen%2BljA%2BscfzQ9%2BqqmV0OAygeUAjOjZENMyEHpRz3ACBbc6RGkBZlRIryNhyH6LSlfqnAHpR7Ci74f5T3%2B1gvlGJo69x%2FDvAEp4VevJusp3wkjonDFaAyLSOyVl5aekE5c48Ln1itwyc%2Bn%2B7I09edhx7drvHNhULe2GdU%2B9mO1evgFHAOvkQtmmYuffKPS%2Br1o0j92qOIw0CXpnXt8lDHeajB%2FR9tCrtKHEewMOLzNpLevAQ%2Fv%2FzvAbVLdDWEIlCcLoHesWaZ6yuZ%2Bp6dzbuF5JxsL1W7pl9FsNXsAuDW6QGmiP%2BdxkFhEms9Ql
 #EXTINF:-1 ,广东新闻
 http://183.60.228.239/tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=2b8780185b26339b46db68cdffbd1603-rIAymhDlfygOWWMft0dbTh0BwlRnlr0ko32aM%2FejvSRoMhRBvrYGJVYvxz4FZYbFRCMSyNen%2BljA%2BscfzQ9%2BqqmV0OAygeUAjOjZENMyEHpRz3ACBbc6RGkBZlRIryNhyH6LSlfqnAHpR7Ci74f5T3%2B1gvlGJo69x%2FDvAEp4VevJusp3wkjonDFaAyLSOyVl5aekE5c48Ln1itwyc%2Bn%2B7I09edhx7drvHNhULe2GdU%2FR8C%2FF9TLtUSPYYXaEcU8N1%2B3%2BTd3GBIWXo5%2BTrOyUnraxBGIUIx4TVYQ3sntgYB6FJUr2REvBLzNWLkyD4wRmLxe5hobIPG0%2Fj%2BdQlZarkfVB1%2BuJgdNmcnjw5Cxx%2BEWONF2B7WmTKu4rMuq85jza
 #EXTINF:-1 ,嘉佳卡通
@@ -11,7 +11,7 @@ http://183.60.228.239/tcdn.itouchtv.cn/live/gdgj.m3u8?t_token=bc75573d45571a7a43
 #EXTINF:-1 ,广东经济科教
 https://jjtctv.gdtv.cn/live/jjkj.m3u8?auth_key=1705313689-0-0-ea21b2fd1a299092ae0bc37d7d67cc8f
 #EXTINF:-1 ,大湾区卫视
-https://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1705310038-0-0-e072832d699945eae71b14825b76c9a1
+http://183.60.228.239/tcdn.itouchtv.cn/live/nfws.m3u8?t_token=9dda590cf38ddcefeb7d4f41b85f4bc9-T73cNpaKBuGbMBsuifwwoEi%2BCCgVMNn%2FDE82fI7vqRRO0Az41jBAflmzdT1%2F%2FFhIbvcBS3%2B3TE6tlx1COvGVY80wz06njQdnqx0KiS1sQxmJ9bg5NqWB2zmEDROqoKg9xZ%2FbpqBigO7j2wKKt8ZeuS40sRbVMg9h%2FMHTr4Jt7qdTW0SzXrC7hgulLQeZB9vFEIZhBIFj%2BjLTLynlCgfMQt4xeaybCqPcr%2FDx0l67pckJhxayfD%2Br9QSH%2FiWa%2Fe69648owh3aEfp5GzWbU8jsZc5T0mIFuSCik5MrFligtov8EgHiFyl5x5eo12IhmjgXqTI%2BBNK%2BZM%2B9DQ%2BavWkFwzVr6V%2BA9SHKo9pkT9W8nD6xm%2F0ZdBFXQw6ccVuugvJy
 #EXTINF:-1 ,广东4K超高清
 http://183.60.228.239/tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=5fe9c7861710fdb975c6c84ef4ed0e1b-T73cNpaKBuGbMBsuifwwoEi%2BCCgVMNn%2FDE82fI7vqRRO0Az41jBAflmzdT1%2F%2FFhIbvcBS3%2B3TE6tlx1COvGVY80wz06njQdnqx0KiS1sQxmJ9bg5NqWB2zmEDROqoKg9xZ%2FbpqBigO7j2wKKt8ZeuS40sRbVMg9h%2FMHTr4Jt7qdTW0SzXrC7hgulLQeZB9vFEIZhBIFj%2BjLTLynlCgfMQt4xeaybCqPcr%2FDx0l67pckVGeZeTBXgxooaXWm6oCMJxOTMHA02d%2F3Ta3sGdqEk5wvpdEYFJ3kDHWoD7ZiPKPC%2F%2BpNTOmvEID3Rc%2B5sLqFhp5LQBXeCi5%2FLUI69rbVtdoir8bmmedhO%2FdUaDFZfVHPHpqTbyn7LAi23Bn6J3Pct
 #EXTINF:-1 ,广东影视
