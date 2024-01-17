@@ -1,9 +1,9 @@
 #EXTINF:-1 ,广东珠江
-https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1705489742-0-0-bd8b5fdb3d8918f3102f1cfb36d48e55
+https://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1705492324-0-0-a58ee959821eec494354ab61992f89b1
 #EXTINF:-1 ,广东民生
-https://ggtctv.gdtv.cn/live/gdgg.m3u8?auth_key=1705486847-0-0-1a3ef7981e0901c0f9c7763c7ec1f80c
+http://106.227.101.207/tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=c9de8796f3b36a06236e391dfec2b386-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3lxK5Hn0gwZZHNjB0kXAieFJMAqLKvlAfbwfIfFWqCQtKFCbeZHUk1s9k7Vq8Xq2i5sc99PjPhIF397aFtHsQXK9Z%2FXxMDd1jqcMm0RmAXuOqATI3uEaWC8f4g2wotiEBfvnjLbbs1pzQxSPLVrYQx8
 #EXTINF:-1 ,广东新闻
-http://106.227.101.207/tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=f4101d233117562b3858a2672f58093d-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3mgAg3K79wRlpk%2F1YW%2BgBXri6jseV4rHhmgzHfky7j1jZV5XxuxG758AwClz3BcoVUEKNHzbFsA2sCix8D2gcnTDKs4UmDSacHyxHWwx5qFaAAuaTOWCUp0kwPETr%2Bhp8WH04Vabqtc9hTxK%2F9gy9mq
+https://xwtctv.gdtv.cn/live/xwpd.m3u8?auth_key=1705492968-0-0-cdb09d37cce71c07f3d647ff2ac26bae
 #EXTINF:-1 ,嘉佳卡通
 http://106.227.101.207/tcdn.itouchtv.cn/live/jjkt.m3u8?t_token=260e8d8bade00c8b4c45470befb70d67-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3kZZGxcPkFQ1Y1zzESodUQj3hGG90QxqgFR%2FOpulQ%2FWrmEIGj5zeY%2BZ3%2BTWs7DI1EiDX4r8eNmEkBaCbJyPKAeZNJcv7gQYiytybBTHBoCvHhmww0MpGv0WLuycaDi%2BnaqJaCUJeO1VO9w5aa0GWnM8
 #EXTINF:-1 ,大湾区卫视（海外版）
@@ -11,11 +11,11 @@ http://106.227.101.207/tcdn.itouchtv.cn/live/gdgj.m3u8?t_token=267f759c2e5215aea
 #EXTINF:-1 ,广东经济科教
 http://106.227.101.207/tcdn.itouchtv.cn/live/jjkj.m3u8?t_token=af5b55b3666e4d6d83786e21a1a9ff1f-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3mSGXvQFgMIC9CNId8ytfr4DjcoxUiIfr6HZR5MQpJ1cQF4ZBdpTVkaMr7OjyJOdxiaYTxtTfWzWWwtSuNZdtXQJytrgikU4N8L8CpibhKJ00eJT6qPXClOAgAzmpj7L1vC4Fo2jgsKmeR0UUXshSTC
 #EXTINF:-1 ,大湾区卫视
-https://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1705491003-0-0-4d342a5538c171a23db025811afed62d
+https://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1705493008-0-0-e6b30bad12bc6df42f0d23282362627a
 #EXTINF:-1 ,广东4K超高清
-https://zytctv.gdtv.cn/live/gdzy.m3u8?auth_key=1705486825-0-0-0981142ef5f37dc2249e504beb724edb
+http://106.227.101.207/tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=da65cc3d6a6516cc8f7695d08bda40f6-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3nh7WPCCxOZ0ZgTWm6Dr1ZabcYlxFHdmWc0gxInLrNbq0NspfUdx8VfqEpM970tmu1hPoN5ffrJmgFNlpx1VuizzQuyss%2B4C%2BDKBLmJH1nIxIVtPj%2FRDmdzeRxkU4SnF02zAmrbbV3WBgaBQZQIVpdQ
 #EXTINF:-1 ,广东影视
-http://106.227.101.207/tcdn.itouchtv.cn/live/gdys.m3u8?t_token=0a64c0efe7c4884e05a0800931f4dca2-2Rk%2BB8SjQgdJz2mL6TnM%2B8gwEmpiYjGlmKnpwiQu8ZalqlvYW6Mb5KlaPT12%2BoV8mGOD%2Fo%2ByRKBP9oPhI8AjZg5LCtn%2Bq6u%2BU1ZOrGKG2MXLz6wWEE44LFqRULwxOamwROaQ28ShGhgw02jwR%2Frzl7Havx87%2B1HJ3i%2FUqRgCht%2BFyItSv%2FoxJR3DzRRdCnZAFzGMbQLGERQ6W96XrA982jgBr3euM4PSIejyOgAwy3nhrwjU76VdJx8YfhtJ4mrn514qFNXq0qXGSyUbUq%2BWroLN5lxks9l1PAJjfStNcJCeY25CuWGE5E1cQVa7kSb4YPUBNVNrn0qDgAs4T7ZrlgTVbGLWMtm4JVxWBrHBQk2lQfbbx6Tsj6xhGNVWRlJQ
+https://ystctv.gdtv.cn/live/gdys.m3u8?auth_key=1705492298-0-0-0c49c1a60ef5e548000b14af3a8d2138
 #EXTINF:-1 ,广东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
